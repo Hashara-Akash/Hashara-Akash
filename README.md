@@ -1,6 +1,6 @@
 ## Hashara Withanage
 
-<img align="right" src="https://media.licdn.com/dms/image/D5616AQEe6i6_d6FNBw/profile-displaybackgroundimage-shrink_350_1400/0/1665392990325?e=1692230400&v=beta&t=8KVdHqXSAOf8-GXuLq8XJJ7r8W0HS8s4ZCxac5lPeSo" height="220" width="450"   
+<img align="right" src="https://media.licdn.com/dms/image/D5616AQEe6i6_d6FNBw/profile-displaybackgroundimage-shrink_350_1400/0/1665392990325?e=1692230400&v=beta&t=8KVdHqXSAOf8-GXuLq8XJJ7r8W0HS8s4ZCxac5lPeSo" height="220" width="500"   
 alt="Programming"/>
 
 <p>I am an aspiring individual who enjoys connecting the dots.
@@ -32,8 +32,7 @@ alt="Programming"/>
   height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
  </p>
 
-#
 <br>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=hashara-akash&theme=dark&background=000000" alt="hashara-akash"  /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=hashara-akash&theme=dark&background=000000" alt="hashara-akash-stats"  /></p>
 
