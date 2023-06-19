@@ -1,6 +1,6 @@
 ## Hashara Withanage
 
-<img align="right" src="https://media.licdn.com/dms/image/D5616AQEe6i6_d6FNBw/profile-displaybackgroundimage-shrink_350_1400/0/1665392990325?e=1692230400&v=beta&t=8KVdHqXSAOf8-GXuLq8XJJ7r8W0HS8s4ZCxac5lPeSo" height="220" width="500"   
+<img align="right" src="https://media.licdn.com/dms/image/D5616AQEe6i6_d6FNBw/profile-displaybackgroundimage-shrink_350_1400/0/1665392990325?e=1692230400&v=beta&t=8KVdHqXSAOf8-GXuLq8XJJ7r8W0HS8s4ZCxac5lPeSo" height="230" width="518"   
 alt="Programming"/>
 
 <p>I am an aspiring individual who enjoys connecting the dots.
