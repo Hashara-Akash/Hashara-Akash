@@ -29,7 +29,6 @@ alt="Programming"/>
   height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
  </p>
 
-<br>
-<hr>
+##
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=hashara-akash&theme=dark&background=000000" alt="hashara-akash-stats"  /></p>
 
