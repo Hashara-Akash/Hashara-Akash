@@ -1,6 +1,6 @@
 ## Hashara Withanage
 
-<img align="right" src="[https://media.licdn.com/dms/image/D5616AQEe6i6_d6FNBw/profile-displaybackgroundimage-shrink_350_1400/0/1665392990325?e=1692230400&v=beta&t=8KVdHqXSAOf8-GXuLq8XJJ7r8W0HS8s4ZCxac5lPeSo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.themuse.com%2Fadvice%2Fhow-land-software-engineering-job-without-college-degree&psig=AOvVaw0xFaB-c4SZkr3Txp6Oivnw&ust=1697811203427000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDl_9-lgoIDFQAAAAAdAAAAABAE)" height="230" width="518"   
+<img align="right" src="https://pilbox.themuse.com/image.png?filter=antialias&h=343&opt=1&pos=top-left&prog=1&q=keep&url=https%3A%2F%2Fcms-assets.themuse.com%2Fmedia%2Flead%2F4decc451-b321-49da-a776-0ab7c8c072f7.png&w=700" height="230" width="518"   
 alt="Programming"/>
 
 <p>I am an aspiring individual who enjoys connecting the dots.
