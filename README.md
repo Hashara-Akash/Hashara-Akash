@@ -30,5 +30,7 @@ alt="Programming"/>
  </p>
 
 ##
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=hashara-akash&theme=dark&background=000000" alt="hashara-akash-stats"  /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashara-akash&show_icons=true&theme=dracula&locale=en" alt="hashara-akash" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashara-akash&theme=dark" alt="hashara-akash" /></p>
 
