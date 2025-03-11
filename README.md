@@ -4,7 +4,7 @@
 alt="Programming"/>
 
 <p>I am an aspiring individual who enjoys connecting the dots.
- Willingness to learn new things, fresh graduate.</p>
+ Willingness to learn new things.</p>
 
 
 <h3 align="left">Connect with me:</h3>
